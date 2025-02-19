@@ -24,7 +24,18 @@ This special session will explore Machine Learning for Signal Processing in the 
 
 # Call for Papers
 
-To-do here!
+Submission Guidelines:
+
+- Authors are invited to submit **6 pages full-length papers**, including figures and references. All accepted and presented papers will be published in and indexed by IEEE Xplore.
+
+- Submissions should follow the official guidelines.
+
+## Important Dates
+
+- **Paper Submission Deadline for the Special Session:** May 10, 2025, 23:59:59 AoE
+- **Notification of Acceptance:** June 24, 2025, 23:59:59 AoE
+- **Camera-Ready Paper Submission:** July 15, 2025, 23:59:59 AoE
+
 
 # Schedule Tentative
 
@@ -32,7 +43,7 @@ To-do here!
 | Time       | Activity                                                                                                                                      |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | 0:00–0:30  | **Introduction and opening remarks**<br>- Welcome<br>- Overview of the brain decoding area<br>- Agenda & Logistics                             |
-| 0:30–1:00  | **Keynote** – *to be confirmed*<br>EEG Decoding in the age of deep learning: challenges, pitfalls, and promises                   |
+| 0:30–1:00  | **Keynote** – *to be confirmed*<br>EEG Decoding in the age of deep learning                             |
 | 1:00–1:30  | **Oral Session for the best papers**<br>Detailed presentation of the works that had the best review process.                                     |
 | 1:30–2:00  | **Demos for Session**<br>Demonstration of open-source software and clinical cases.                                                           |
 | 2:00–2:50  | **Poster Presentation**<br>Poster presentation of the papers.                                                                               |
@@ -61,7 +72,7 @@ Our organizing committee benefits from extensive backgrounds, and the research e
         "https://marieconstance-corsi.netlify.app/",
         "https://sylvchev.github.io/",
     ],
-    image_dir = "organizers") }}
+    image_dir = "organizers/") }}
 
 
 
