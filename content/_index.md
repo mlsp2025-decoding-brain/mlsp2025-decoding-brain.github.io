@@ -1,5 +1,5 @@
 +++
-title = "Decoding the brain time series Session Session at MLSP 2025"
+title = "Decoding the brain time series Session Session at [MLSP 2025](https://2025.ieeemlsp.org/en/)"
 +++
 
 # Abstract
@@ -28,7 +28,7 @@ Submission Guidelines:
 
 - Authors are invited to submit **6 pages full-length papers**, including figures and references. All accepted and presented papers will be published in and indexed by IEEE Xplore.
 
-- Submissions should follow the official guidelines.
+- Submissions should follow the official [guidelines](https://2025.ieeemlsp.org/en/PAPER-SUBMISSION-GUIDELINES.html).
 
 ## Important Dates
 
@@ -40,14 +40,14 @@ Submission Guidelines:
 # Schedule Tentative
 
 
-| Time       | Activity                                                                                                                                      |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 0:00–0:30  | **Introduction and opening remarks**<br>- Welcome<br>- Overview of the brain decoding area<br>- Agenda & Logistics                             |
-| 0:30–1:00  | **Keynote** – *to be confirmed*<br>EEG Decoding in the age of deep learning                             |
-| 1:00–1:30  | **Oral Session for the best papers**<br>Detailed presentation of the works that had the best review process.                                     |
-| 1:30–2:00  | **Demos for Session**<br>Demonstration of open-source software and clinical cases.                                                           |
-| 2:00–2:50  | **Poster Presentation**<br>Poster presentation of the papers.                                                                               |
-| 2:50–3:00  | **Closing**                                                                                                                                    |
+| Time       | Activity                                                                                                           |
+|------------|--------------------------------------------------------------------------------------------------------------------|
+| 0:00–0:30  | **Introduction and opening remarks**<br>- Welcome<br>- Overview of the brain decoding area<br>- Agenda & Logistics |
+| 0:30–1:00  | **Keynote** – *Hubert Banville (Meta - Brain & AI) *<br>EEG Decoding in the age of deep learning                   |
+| 1:00–1:30  | **Oral Session for the best papers**<br>Detailed presentation of the works that had the best review process.       |
+| 1:30–2:00  | **Demos for Session**<br>Demonstration of open-source software and clinical cases.                                 |
+| 2:00–2:50  | **Poster Presentation**<br>Poster presentation of the papers.                                                      |
+| 2:50–3:00  | **Closing**                                                                                                        |
 
 
 {{ new_block() }}
