@@ -5,14 +5,23 @@ title = "Decoding the brain time series Session Session at MLSP 2025"
 # Abstract
 
 The ongoing deep learning revolution of the last decade has changed how we develop machine learning models in numerous research fields. 
-However, its adoption in areas like time series has been slower and more constrained compared with images and text domains. This measured progress underscores the significant challenges in the field. 
 
-In the neuroscience application, we face a dual challenge that calls for both clinical neuroscience expertise and machine learning skills to handle complex signals. Brain decoding aims to extract meaningful information from neural signals to understand brain function or develop applications in healthcare and brain-computer interfaces. 
-EEG decoding, in particular, presents unique challenges due to the variability across subjects, the limited amount of data, and the need for short calibration times in real-world applications, Chevallier, S. (2024). 
+However, its adoption in areas like time series has been slower and more constrained compared with images and text domains. 
+
+This measured progress underscores the significant challenges in the field. 
+
+In the neuroscience application, we face a dual challenge that calls for both clinical neuroscience expertise and machine learning skills to handle complex signals. 
+
+Brain decoding aims to extract meaningful information from neural signals to understand brain function or develop applications in healthcare and brain-computer interfaces. 
+
+EEG decoding, in particular, presents unique challenges due to the variability across subjects, the limited amount of data, and the need for short calibration times in real-world applications, Chevallier, S. _et al._ (2024). 
+
 Addressing these challenges requires a combination of neuroscience insights and machine learning techniques. 
 
 
-Although deep learning and foundation models hold great promise for these brain decoding problems, current research is in its infancy. Recently, a growing number of works have treated large models to learn common representations across different brain signals. Despite these advancements, research into EEG decoding still lacks fundamental bases that attempt to compare models fairly and helpfully for real applications.
+Although deep learning and foundation models hold great promise for these brain decoding problems, current research is in its infancy. Recently, a growing number of works have treated large models to learn common representations across different brain signals. 
+
+Despite these advancements, research into EEG decoding still lacks fundamental bases that attempt to compare models fairly and helpfully for real applications.
 
 
 This special session will explore Machine Learning for Signal Processing in the EEG decoding community at [MLSP 2025](https://2025.ieeemlsp.org/en/), examine their clinical applications and interpretable approaches, and discuss the field's shift toward incorporating more deep learning models.
