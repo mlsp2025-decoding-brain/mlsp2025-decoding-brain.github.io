@@ -69,7 +69,6 @@ Hubert Banville is a Research Scientist in the Brain & AI group at Meta FAIR. Hi
     images = [
         "hubert_banville.jpg",
     ],
-    image_dir = "keynote/",
     narrow = true) }}
 
 
