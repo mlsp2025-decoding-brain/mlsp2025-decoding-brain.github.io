@@ -97,10 +97,8 @@ Our organizing committee benefits from extensive backgrounds, and the research e
         "florian.jpg",
         "marie.jpg",
         "sylvain.jpg"
-    ],) 
-}}
-
-
+    ],
+    narrow = true) }}
 
 {{ new_block() }}
 
