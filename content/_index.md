@@ -91,7 +91,6 @@ Our organizing committee benefits from extensive backgrounds, and the research e
         "https://marieconstance-corsi.netlify.app/",
         "https://sylvchev.github.io/",
     ],
-    image_dir = "organizers/",
     images = [
         "bruno.jpg",
         "florian.jpg",
