@@ -64,7 +64,7 @@ Submission Guidelines:
 
 
 
-# Keynote Speaker
+# Keynote Speaker - EEG Decoding in the age of deep learning
 
 Hubert Banville is a Research Scientist in the Brain & AI group at Meta FAIR. His research focuses on machine learning for the decoding and processing of functional neuroimaging data. Hubert received his PhD in the Parietal team at Inria, Université Paris-Saclay, where he worked on self-supervised learning for EEG. Previously, he worked on mobile EEG as a researcher at InteraXon (maker of the Muse headband).
 
