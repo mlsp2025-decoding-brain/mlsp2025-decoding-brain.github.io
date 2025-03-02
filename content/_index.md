@@ -43,7 +43,7 @@ Submission Guidelines:
 | Time       | Activity                                                                                                           |
 |------------|--------------------------------------------------------------------------------------------------------------------|
 | 0:00–0:30  | **Introduction and opening remarks**<br>- Welcome<br>- Overview of the brain decoding area<br>- Agenda & Logistics |
-| 0:30–1:00  | **Keynote** – *Hubert Banville (Meta - Brain & AI) *<br>EEG Decoding in the age of deep learning                   |
+| 0:30–1:00  | **Keynote** – *Hubert Banville (Meta FAIR - Brain & AI) *<br>EEG Decoding in the age of deep learning              |
 | 1:00–1:30  | **Oral Session for the best papers**<br>Detailed presentation of the works that had the best review process.       |
 | 1:30–2:00  | **Demos for Session**<br>Demonstration of open-source software and clinical cases.                                 |
 | 2:00–2:50  | **Poster Presentation**<br>Poster presentation of the papers.                                                      |
@@ -52,6 +52,24 @@ Submission Guidelines:
 
 {{ new_block() }}
 
+
+
+# Keynote Speaker
+
+Hubert Banville is a Research Scientist in the Brain & AI group at Meta FAIR. His research focuses on machine learning for the decoding and processing of functional neuroimaging data. Hubert received his PhD in the Parietal team at Inria, Université Paris-Saclay, where he worked on self-supervised learning for EEG. Previously, he worked on mobile EEG as a researcher at InteraXon (maker of the Muse headband).
+
+{{ grid(
+    text = [
+        ["Hubert Banville", "Meta FAIR - Brain & AI"], 
+    ],
+    urls = [
+        "https://hubertjb.github.io/",
+    ],
+    images = [
+        "hubert_banville.jpg",
+    ],
+    image_dir = "keynote/",
+    narrow = true) }}
 
 
 # Organizers
@@ -72,8 +90,14 @@ Our organizing committee benefits from extensive backgrounds, and the research e
         "https://marieconstance-corsi.netlify.app/",
         "https://sylvchev.github.io/",
     ],
-    image_dir = "organizers/") }}
-
+    image_dir = "organizers/",
+    images = [
+        "bruno.jpg",
+        "florian.jpg",
+        "marie.jpg",
+        "sylvain.jpg",
+    ],) 
+}}
 
 
 {{ new_block() }}
