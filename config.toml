@@ -11,6 +11,6 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
-title = {tagline = "Session Session on", title = "Decoding the brain time series", subtitles = ["MLSP 2025 @ Istanbul, Turkey", "August 31-September 3"]}
+title = {tagline = "Special Session on", title = "Decoding the brain time series", subtitles = ["MLSP 2025 @ Istanbul, Turkey", "August 31-September 3"]}
 banner = {extension = "svg", size = "fit-height", fade = true}
 header_pages = [{name = "Home", url = "/#home"},{name = "Schedule", url = "/#schedule"}]
