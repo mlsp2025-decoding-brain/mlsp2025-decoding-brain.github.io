@@ -41,7 +41,8 @@ Submission Guidelines:
 
 ## Important Dates
 
-- **Paper Submission Deadline for the Special Session:** May 10, 2025, 23:59:59 AoE
+- **Paper Submission Deadline for the Special Session:** ~~May 10, 2025, 23:59:59 AoE~~, May 24, 2025, 23:59:59 AoE
+
 - **Notification of Acceptance:** June 24, 2025, 23:59:59 AoE
 - **Camera-Ready Paper Submission:** July 15, 2025, 23:59:59 AoE
 
